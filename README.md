@@ -27,6 +27,7 @@ OSINT 框架专注于从免费工具或资源中收集信息。目的是帮助�
 <ol start="2">
   <li>提交拉取请求！</li>
 </ol>
+![QQ截图20220518175226](https://user-images.githubusercontent.com/64476417/169012200-276fd5ff-5cdb-4684-b384-b8aa46677f73.png)
 
 Thank you!
 
@@ -34,4 +35,3 @@ Thank you!
 
 https://osintframework.com
 
-Happy Hunting!
