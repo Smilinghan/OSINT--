@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <link type="text/css" rel="stylesheet" href="css/arf.css"/>
+    <script type="text/javascript" src="js/d3.v3.min.js"></script>
+    <title>OSINT 开源情报导图</title>
+  </head>
+
+  <body>
+    <div id="body">
+      <div id="header">
+        OSINT 开源情报导图
+          <hr/>
+      </div>
+    </div>
+
+    <script src="js/arf.js"></script>
+
+    <div class="legend"><p>(T) - 表示必须在本地安装和运行的工具的链接<br>
+    (D) - Google Dork，了解更多信息：<a href="https://en.wikipedia.org/wiki/Google_hacking">Google Hacking</a><br>
+    (R) - 代表需要注册才能使用<br>
+    (M) - 表示包含搜索词的 URL，并且 URL 本身必须手动编辑<br></p></div>
+  </body>
+
+</html>
