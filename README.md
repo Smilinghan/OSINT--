@@ -27,7 +27,7 @@ OSINT 框架专注于从免费工具或资源中收集信息。目的是帮助�
 ```
 
 <ol start="2">
-  <li>Submit pull request!</li>
+  <li>提交拉取请求！</li>
 </ol>
 
 Thank you!
